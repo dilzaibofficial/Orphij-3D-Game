@@ -14,6 +14,16 @@ A solo-built, Squid-Game-style **"Red Light, Green Light"** party game in 3D —
 
 ---
 
+## 🎥 Demo
+
+<p align="center">
+  <video src="preview/demo.mp4" controls loop muted autoplay playsinline width="720">
+    Your browser doesn't support inline video — <a href="preview/demo.mp4">watch the file directly</a>.
+  </video>
+</p>
+
+---
+
 ## 📌 Project Structure
 
 ```plaintext
